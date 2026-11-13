@@ -3,7 +3,8 @@
 ## Candidate
 - **Name:** Gyana Ranjan Sahoo
 - **Assignment chosen:** A (Data)
-- **Time spent (honest estimate):** TODO: fill in before submitting
+- **Time spent (honest estimate):** ~3h of active work, almost all of it in a Claude Code session
+  that wrote and verified the code (see `AI_USAGE.md`)
 
 ## How to run
 ```bash
